@@ -61,7 +61,7 @@ Full Report:
 The full documentation of the tasks is available in the [`Report/`](Report/) folder.
 
 Screenshots (Creation & Deletion):  
-All screenshots of PDB creation and deletion are stored in the [`Screenshot/`](Screenshot/) folder.
+All screenshots of PDB creation and deletion are stored in the [`Screenshot/`](screenshot/) folder.
 
 
 Successfully created and opened ba_pdb_27189.
