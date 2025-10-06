@@ -55,11 +55,14 @@ Deletion
 ALTER PLUGGABLE DATABASE ba_to_delete_pdb_27189 CLOSE IMMEDIATE;
 DROP PLUGGABLE DATABASE ba_to_delete_pdb_27189 INCLUDING DATAFILES;
 
-Step 4: Screenshots and Report 
+## Step 4: Screenshots and Report (2 pts)
 
-Full Report:
-View Report
-Step 5: Results
+Full Report:  
+The full documentation of the tasks is available in the [`Report/`](Report/) folder.
+
+Screenshots (Creation & Deletion):  
+All screenshots of PDB creation and deletion are stored in the [`Screenshot/`](Screenshot/) folder.
+
 
 Successfully created and opened ba_pdb_27189.
 
